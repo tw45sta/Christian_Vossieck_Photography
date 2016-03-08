@@ -1,6 +1,8 @@
 body.bodystyle {
   text-align: center;
-  background: crimson;
+  background-image: url("https://github.com/tw45sta/M_and_T_website/blob/gh-pages/2015-12-07.08.35.02.jpg?raw=true");
+  background-size: cover;
+  background-position: center;
   color: white;
   font-family: helvetica;
 }
