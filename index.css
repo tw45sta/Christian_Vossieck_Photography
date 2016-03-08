@@ -1,1 +1,8 @@
-css file
+<style>
+body {
+  text-align: center;
+  background: crimson;
+  color: white;
+  font-family: helvetica;
+}
+</style> 
