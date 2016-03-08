@@ -6,3 +6,6 @@ body.bodystyle {
   color: white;
   font-family: helvetica;
 }
+h1{
+  position: right;
+}
