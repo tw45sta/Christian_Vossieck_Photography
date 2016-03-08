@@ -7,5 +7,6 @@ body.bodystyle {
   font-family: helvetica;
 }
 h1{
-  color: black;
+  color: white;
+  position: right;
 }
