@@ -1,9 +1,9 @@
 body.bodystyle {
   text-align: center;
-  background-image: url("Old-Course-at-St-Andrews-via-Links-Trust-no-credit-necessary-Resized-to-1910KB.jpg");
+  
   background-size: cover;
   background-position: center;
-  color: white;
+  color: black;
   font-family: helvetica;
 }
 h1 {
