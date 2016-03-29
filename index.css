@@ -1,6 +1,6 @@
 body.bodystyle {
   text-align: center;
-  background-color: white;
+  background: url(12903637_10153548192877951_308280470_o.jpg)
   background-size: cover;
   background-position: center;
   color: white;
@@ -181,7 +181,7 @@ p {
 
 .hero {
   position: relative;
-  background: url("http://www.st-andrews.ac.uk/develop-2/ransome/images/quad.jpg") no-repeat center center fixed;
+  background: url("12903637_10153548192877951_308280470_o.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
