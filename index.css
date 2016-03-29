@@ -7,14 +7,14 @@ body.bodystyle {
   font-family: helvetica;
 }
 h1 {
-  color: red;
+  color: grey;
   position: right;
 }
 a {
-  color: red;
+  color: black;
 }
 a:visited {
-  color: red;
+  color: grey;
   }
 .main_h {
   position: fixed;
