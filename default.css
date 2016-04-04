@@ -154,7 +154,7 @@
 	.image
 	{
 		display: inline-block;
-		border: 1px solid rgba(0,0,0,0.1);
+		border: 1px solid rgba(0,0,0,0.8);
 		padding: 0 auto;
 		border-top: 10px;
 		border-style: solid;
