@@ -296,6 +296,7 @@
 		overflow: hidden;
 		padding: 10em 0em 10em 0em;
 		background: url("cropped-wordpress-stawebteam-college-street.jpg") repeat-x center top;
+		background-size: cover;
 		border-bottom: 50px solid rgba(0,0,0,.5);
 	}
 
@@ -383,15 +384,6 @@
 		color: #FFF;
 	}
 	
-
-/*********************************************************************************/
-/* Banner                                                                        */
-/*********************************************************************************/
-
-	#banner
-	{
-	}
-
 /*********************************************************************************/
 /* Wrapper                                                                       */
 /*********************************************************************************/
@@ -501,54 +493,6 @@
 	#footer .title span
 	{
 		color: rgba(255,255,255,0.4);
-	}
-
-/*********************************************************************************/
-/* Copyright                                                                     */
-/*********************************************************************************/
-
-	#copyright
-	{
-		overflow: hidden;
-		padding: 5em 0em;
-		border-top: 1px solid rgba(255,255,255,0.08);
-		text-align: center;
-	}
-	
-	#copyright p
-	{
-		text-transform: uppercase;
-		font-size: 0.80em;
-		color: rgba(255,255,255,0.3);
-	}
-	
-	#copyright a
-	{
-		text-decoration: none;
-		color: rgba(255,255,255,0.6);
-	}
-
-/*********************************************************************************/
-/* Newsletter                                                                    */
-/*********************************************************************************/
-
-	#newsletter
-	{
-		overflow: hidden;
-		padding: 8em 0em;
-		background: #EDEDED;
-		text-align: center;
-	}
-	
-	#newsletter .title h2
-	{
-		color: rgba(0,0,0,0.8);
-	}
-	
-	#newsletter .content
-	{
-		width: 600px;
-		margin: 0px auto;
 	}
 	
 /*********************************************************************************/
