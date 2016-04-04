@@ -164,6 +164,7 @@
 		display: block;
 		width: 100%;
 		padding: 0 auto;
+		margin: 10px 10px 5px 5px;
 	}
 	
 	.image-full
@@ -172,6 +173,7 @@
 		width: 100%;
 		margin: 0 0 3em 0;
 		padding: 0 auto;
+		margin: 10px 10px 5px 5px;
 	}
 	
 	.image-left
@@ -179,6 +181,7 @@
 		float: left;
 		margin: 0 2em 2em 0;
 		padding: 0 auto;
+		margin: 10px 10px 5px 5px;
 	}
 	
 	.image-centered
@@ -186,6 +189,7 @@
 		display: block;
 		margin: 0 0 2em 0;
 		padding: 0 auto;
+		margin: 10px 10px 5px 5px;
 	}
 	
 	.image-centered img
@@ -193,6 +197,7 @@
 		margin: 0 auto;
 		width: auto;
 		padding: 0 auto;
+		margin: 10px 10px 5px 5px;
 	}
 	
 
