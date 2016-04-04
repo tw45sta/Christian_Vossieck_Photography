@@ -170,28 +170,18 @@
 		display: block;
 		width: 100%;
 		margin: 0 0 3em 0;
-		padding-top: 10px;
-	}
-	
-	.image-left
-	{
-		float: left;
-		margin: 0 2em 2em 0;
-		padding-top: 10px;
 	}
 	
 	.image-centered
 	{
 		display: block;
 		margin: 0 0 2em 0;
-		padding-top: 10px;
 	}
 	
 	.image-centered img
 	{
 		margin: 0 auto;
 		width: auto;
-		padding-top: 10px;
 	}
 	
 
