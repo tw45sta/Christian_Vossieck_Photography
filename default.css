@@ -155,14 +155,14 @@
 	{
 		display: inline-block;
 		border: 1px solid rgba(0,0,0,.1);
-		padding: 0 auto;
+		padding: 2px 0 2px 2px;
 	}
 	
 	.image img
 	{
 		display: block;
 		width: 100%;
-		padding: 0 auto;
+		padding: 2px 0 2px 2px;
 	}
 	
 	.image-full
@@ -170,28 +170,28 @@
 		display: block;
 		width: 100%;
 		margin: 0 0 3em 0;
-		padding: 0 auto;
+		padding: 2px 0 2px 2px;
 	}
 	
 	.image-left
 	{
 		float: left;
 		margin: 0 2em 2em 0;
-		padding: 0 auto;
+		padding: 2px 0 2px 2px;
 	}
 	
 	.image-centered
 	{
 		display: block;
 		margin: 0 0 2em 0;
-		padding: 0 auto;
+		padding: 2px 0 2px 2px;
 	}
 	
 	.image-centered img
 	{
 		margin: 0 auto;
 		width: auto;
-		padding: 0 auto;
+		padding: 2px 0 2px 2px;
 	}
 	
 
