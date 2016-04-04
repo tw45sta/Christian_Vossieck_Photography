@@ -169,29 +169,37 @@
 	{
 		display: block;
 		width: 100%;
-		margin: 0 0 3em 0;
-		padding: 5px auto;
+		margin: 0 auto;
+		padding-top: 5px;
+		padding-left: 1px;
+		padding-right: 1px;
 	}
 	
 	.image-left
 	{
 		float: left;
-		margin: 0 2em 2em 0;
-		padding: 5px auto;
+		margin: 0 auto;
+		padding-top: 5px;
+		padding-left: 1px;
+		padding-right: 1px;
 	}
 	
 	.image-centered
 	{
 		display: block;
-		margin: 0 0 2em 0;
-		padding: 5px auto;
+		margin: 0 auto;
+		padding-top: 5px;
+		padding-left: 1px;
+		padding-right: 1px;
 	}
 	
 	.image-centered img
 	{
 		margin: 0 auto;
 		width: auto;
-		padding: 5px auto;
+		padding-top: 5px;
+		padding-left: 1px;
+		padding-right: 1px;
 	}
 	
 
