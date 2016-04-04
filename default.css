@@ -169,21 +169,21 @@
 	{
 		display: block;
 		width: 100%;
-		margin: 3em 3em 3em 3em;
+		margin: 0 0 3em 0;
 		padding: 0 auto;
 	}
 	
 	.image-left
 	{
 		float: left;
-		margin: 2em 2em 2em 2em;
+		margin: 0 2em 2em 0;
 		padding: 0 auto;
 	}
 	
 	.image-centered
 	{
 		display: block;
-		margin: 2em 2em 2em 2em;
+		margin: 0 0 2em 0;
 		padding: 0 auto;
 	}
 	
