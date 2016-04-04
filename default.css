@@ -299,6 +299,7 @@
 		background-size: cover;
 		margin: 0 auto;
 		border-bottom: 20px solid rgba(0,0,0,.5);
+		max-width: 600px;
 	}
 
 	#header
@@ -620,4 +621,4 @@
 		border-top-color: #292929;
 	}
 
-	
+
